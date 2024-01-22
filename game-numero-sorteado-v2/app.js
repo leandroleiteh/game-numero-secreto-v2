@@ -1,6 +1,6 @@
 
 let listOfDrawnNumbers = [];
-let numberLimit = 2;
+let numberLimit = 20;
 let attempts = 1;
 
 showMessageStart();
